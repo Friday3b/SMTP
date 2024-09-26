@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Proqramlar\\Visual studio\\Projects\\smtp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC54BE2-2666-488E-875E-9A64A3F1FD9F}|smtp.csproj|t:\\proqramlar\\visual studio\\projects\\smtp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC54BE2-2666-488E-875E-9A64A3F1FD9F}|smtp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Proqramlar\\Visual studio\\Projects\\smtp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "T:\\Proqramlar\\Visual studio\\Projects\\smtp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:50:19.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
